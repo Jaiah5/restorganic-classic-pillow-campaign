@@ -4,4 +4,4 @@ Take a look at the email I built using HTML, CSS, and VML mark up language for c
 
 This email template is optimised for Dark mode/Gmail Dark mode, mobile, and Outlook.
 
-View here:
+View here: https://jaiah5.github.io/restorganic-classic-pillow-campaign/
